@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E07F804819E80C210012E88D"
-               BuildableName = "SuperSnakey.app"
-               BlueprintName = "SuperSnakey"
+               BlueprintIdentifier = "E07F804C19E80C210012E88D"
+               BuildableName = "libObjectiveChipmunk.a"
+               BlueprintName = "ObjectiveChipmunk"
                ReferencedContainer = "container:SuperSnakey.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E07F804819E80C210012E88D"
-            BuildableName = "SuperSnakey.app"
-            BlueprintName = "SuperSnakey"
-            ReferencedContainer = "container:SuperSnakey.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -48,15 +39,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E07F804819E80C210012E88D"
-            BuildableName = "SuperSnakey.app"
-            BlueprintName = "SuperSnakey"
+            BlueprintIdentifier = "E07F804C19E80C210012E88D"
+            BuildableName = "libObjectiveChipmunk.a"
+            BlueprintName = "ObjectiveChipmunk"
             ReferencedContainer = "container:SuperSnakey.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -66,15 +57,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E07F804819E80C210012E88D"
-            BuildableName = "SuperSnakey.app"
-            BlueprintName = "SuperSnakey"
+            BlueprintIdentifier = "E07F804C19E80C210012E88D"
+            BuildableName = "libObjectiveChipmunk.a"
+            BlueprintName = "ObjectiveChipmunk"
             ReferencedContainer = "container:SuperSnakey.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
